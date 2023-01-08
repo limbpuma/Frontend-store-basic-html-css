@@ -1,1 +1,2 @@
-﻿# Frontend-store-basic HTML&CSS&CSS
+﻿# Frontend-store-basic HTML&CSS&JS
+ 
